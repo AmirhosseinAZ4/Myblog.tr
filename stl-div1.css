@@ -1,0 +1,6 @@
+.h2-header{
+    color: blue;
+    background-color: aqua;
+    border-radius: 1% 2.2% 1% 2.2%;
+    border:  0.4px solid blue; filter: brightness(0.2px);
+}
